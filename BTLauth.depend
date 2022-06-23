@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653363089 source:f:\code bt05\btl auth\btlauth\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<SDL.h>
+	<cstdlib>
+	<SDL_image.h>
+
